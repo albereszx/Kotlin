@@ -1,2 +1,2 @@
 # Kotlin
-Laboratório direcionado á aplicações Mobile; através da linguagem Kotlin.
+Repositório voltado para conhecimentos e projetos em Mobile (DevMob).
